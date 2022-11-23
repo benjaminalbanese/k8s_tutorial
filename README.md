@@ -1,2 +1,2 @@
 # k8s_tutorial
-k8s tutorial
+https://youtu.be/X48VuDVv0do?t=6913
